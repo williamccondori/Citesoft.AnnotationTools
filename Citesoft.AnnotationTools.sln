@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citesoft.AnnotationTools.Presentacion", "Citesoft.AnnotationTools.Presentacion\Citesoft.AnnotationTools.Presentacion.csproj", "{5005824D-697E-4FA7-B395-F4DF21468A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citesoft.AnnotationTools.Dtos", "Citesoft.AnnotationTools.Dtos\Citesoft.AnnotationTools.Dtos.csproj", "{0E6F00DE-15B8-4052-A41B-12CE6BDAE2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitesoftAnnotationTools.Helpers", "CitesoftAnnotationTools.Helpers\CitesoftAnnotationTools.Helpers.csproj", "{1B2D5D40-BD21-41EA-A598-6985C9D5D08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Citesoft.AnnotationTools.Logic", "Citesoft.AnnotationTools.Logic\Citesoft.AnnotationTools.Logic.csproj", "{A795C45D-A042-469C-90BC-B46526F6AEB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5005824D-697E-4FA7-B395-F4DF21468A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5005824D-697E-4FA7-B395-F4DF21468A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5005824D-697E-4FA7-B395-F4DF21468A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5005824D-697E-4FA7-B395-F4DF21468A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6F00DE-15B8-4052-A41B-12CE6BDAE2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6F00DE-15B8-4052-A41B-12CE6BDAE2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6F00DE-15B8-4052-A41B-12CE6BDAE2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6F00DE-15B8-4052-A41B-12CE6BDAE2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2D5D40-BD21-41EA-A598-6985C9D5D08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2D5D40-BD21-41EA-A598-6985C9D5D08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2D5D40-BD21-41EA-A598-6985C9D5D08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2D5D40-BD21-41EA-A598-6985C9D5D08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A795C45D-A042-469C-90BC-B46526F6AEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A795C45D-A042-469C-90BC-B46526F6AEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A795C45D-A042-469C-90BC-B46526F6AEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A795C45D-A042-469C-90BC-B46526F6AEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39B6A241-4488-462C-B23C-FB372C9482A3}
+	EndGlobalSection
+EndGlobal
